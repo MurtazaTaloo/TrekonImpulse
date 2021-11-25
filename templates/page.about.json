@@ -1,0 +1,157 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "About us",
+            "title": "Passionate about the Australian lifestyle",
+            "title_size": 60,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/192700632_1155855451578213_338798991876019719_n_compressed.jpg",
+            "overlay_opacity": 50,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><br\/>Jungle 4×4 was born out of a passion for the Australian way of life. We have so much country-side to see and so much coastline to cover that you could be gone for a lifetime.<br\/><br\/>As Australians, we’re lucky to be able to cherish the great things we can do in our beautiful country, all in the comfort of our own cars; tow a boat, a caravan, a trailer, or just pack the 4WD. So, what are you waiting for? Lock the house, pack the dog and go.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "title": "Contact us",
+        "text": "",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    },
+    "1635053010c9ede4dd": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Quality",
+        "title": "Designed & tested in Australia",
+        "text": "<p>All our bull bars have been designed and tested in Australia and are airbag compatible and ADR approved. Jungle 4×4 has made a huge investment in making sure the bars not only look good but most of all meet the toughest safety standards.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/IMG_7215_compressed_compressed.jpg",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 550,
+        "framed": false,
+        "parallax": true
+      }
+    },
+    "1635053100ea7cb49a": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/feature-image-1_compressed_1.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "QUALITY ENGINEERED PRODUCTS.",
+        "text": "<p>Jungle 4×4 has designed and engineered 4WD equipment to protect your vehicle.<\/p><p>We have a huge range of deluxe bull bars, sports bull bars, side rails, side steps and recovery gear.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1635053222506fb489": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/australia-1_1.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Premium level protection without the price tag.",
+        "text": "<p>Jungle 4×4 has made a huge investment in making sure the bars not only look good but most of all meet the toughest safety standards.<\/p><p>Our goal is to develop high-quality, engineered and tested 4WD products for the Australian market, without a hefty price tag.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "map": {
+      "type": "map",
+      "settings": {
+        "map_title": "Visit us in store",
+        "address": "<p>24 Fullarton Dr,<br\/>Epping VIC 3076<\/p><p>Mon - Fri, 9am - 5pm<\/p><p><a href=\"tel:(03) 8401 3776\">(03) 8401 3776<\/a><br\/><a href=\"mailto:sales@jungle4x4.com.au\" title=\"mailto:sales@jungle4x4.com.au\">sales@jungle4x4.com.au<\/a><\/p><p><\/p>",
+        "map_address": "24 Fullarton Dr, Epping VIC 3076",
+        "api_key": "AIzaSyBsn4vImx2cjZQoKEvIuWCxvTs7YOirgE8",
+        "show_button": true,
+        "background_image_position": "center center"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow",
+    "rich-text",
+    "featured-collection",
+    "form",
+    "1635053010c9ede4dd",
+    "1635053100ea7cb49a",
+    "1635053222506fb489",
+    "map"
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "4WD bull bars, side steps & rails.",
+            "title": "Jungle 4x4 Bullbars & Protection",
+            "title_size": 70,
+            "subheading": "The ultimate 4x4 parts built for the Australian environment.",
+            "link": "shopify:\/\/collections",
+            "link_text": "Shop by make",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/bg-3_1.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "bottom center"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "minimal",
+        "autoplay": false,
+        "autoplay_speed": 7
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "4x4 accessories designed and tested in Australia for Australian conditions"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>All our bull bars have been designed and tested in Australia and are airbag compatible and ADR approved. Jungle 4×4 has made a huge investment in making sure the bars not only look good but most of all meet the toughest safety standards.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1635047350b81f15d5": {
+      "type": "logo-list",
+      "blocks": {
+        "1635047350b81f15d5-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/trek-hardware-logo.png",
+            "link": ""
+          }
+        },
+        "1635047350b81f15d5-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/your-4x4-logo.jpg",
+            "link": ""
+          }
+        },
+        "1635047350b81f15d5-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4wd-pro-tips-logo.jpg",
+            "link": ""
+          }
+        },
+        "1635047350b81f15d5-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7mate-logo.png",
+            "link": ""
+          }
+        },
+        "2de5408a-32fd-4ba0-a6a2-dc70b222ae91": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/life-off-road-logo.png",
+            "link": ""
+          }
+        },
+        "871b132c-eea5-42a8-bd67-8b257f581afc": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4wd-tv-logo.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1635047350b81f15d5-0",
+        "1635047350b81f15d5-1",
+        "1635047350b81f15d5-2",
+        "1635047350b81f15d5-3",
+        "2de5408a-32fd-4ba0-a6a2-dc70b222ae91",
+        "871b132c-eea5-42a8-bd67-8b257f581afc"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 100,
+        "divider": false
+      }
+    },
+    "1635240013cec944ae": {
+      "type": "featured-collections",
+      "blocks": {
+        "1635240013cec944ae-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "ford",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "1635240013cec944ae-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "holden",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "1635240013cec944ae-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "isuzu",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "1635240013cec944ae-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "mazda",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "c740a3e8-8c57-42ba-90ba-7104f97dfc40": {
+          "type": "collection",
+          "settings": {
+            "collection": "mitsubishi",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "13faa791-e63d-462b-aa02-dd82828d87ef": {
+          "type": "collection",
+          "settings": {
+            "collection": "nissan",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "af2db2ad-c9c1-4028-abce-3937ec03a2a3": {
+          "type": "collection",
+          "settings": {
+            "collection": "toyota",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1635240013cec944ae-0",
+        "1635240013cec944ae-1",
+        "1635240013cec944ae-2",
+        "1635240013cec944ae-3",
+        "c740a3e8-8c57-42ba-90ba-7104f97dfc40",
+        "13faa791-e63d-462b-aa02-dd82828d87ef",
+        "af2db2ad-c9c1-4028-abce-3937ec03a2a3"
+      ],
+      "settings": {
+        "title": "Shop by make",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    },
+    "1635122005a746737c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/feature-image-1_compressed_1.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Premium level protection without the price tag",
+        "text": "<p>All our bull bars have been designed and tested in Australia and are airbag compatible and ADR approved. Jungle 4×4 has made a huge investment in making sure the bars not only look good but most of all meet the toughest safety standards.<\/p>",
+        "button_label": "Shop by make",
+        "button_link": "shopify:\/\/collections",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": true
+      }
+    },
+    "1635122034d9b4f53d": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/australia-1_1.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Tested in & designed for Australia",
+        "text": "<p>All our bull bars have been designed and tested in Australia and are airbag compatible and ADR approved. Jungle 4×4 has made a huge investment in making sure the bars not only look good but most of all meet the toughest safety standards.<br\/><\/p>",
+        "button_label": "Shop by make",
+        "button_link": "shopify:\/\/collections",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "From the journal",
+        "blog": "news",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "blog_image_size": "wide",
+        "divider": true
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "rich-text",
+    "1635047350b81f15d5",
+    "1635240013cec944ae",
+    "1635122005a746737c",
+    "1635122034d9b4f53d",
+    "blog-posts"
+  ]
+}

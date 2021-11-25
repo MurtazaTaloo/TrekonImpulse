@@ -1,0 +1,69 @@
+{
+  "sections": {
+    "main": {
+      "type": "list-collections-template",
+      "blocks": {
+        "cf1be78e-c37f-4293-8569-99a1a87a0c71": {
+          "type": "collection",
+          "settings": {
+            "collection": "ford"
+          }
+        },
+        "d0cc0881-2a23-4c87-b280-6bf0c3021ceb": {
+          "type": "collection",
+          "settings": {
+            "collection": "holden"
+          }
+        },
+        "e4243559-8943-42ea-b831-6cba1c6e1dec": {
+          "type": "collection",
+          "settings": {
+            "collection": "isuzu"
+          }
+        },
+        "9a5adf9e-4840-4a99-be3b-cf31c328cf01": {
+          "type": "collection",
+          "settings": {
+            "collection": "mazda"
+          }
+        },
+        "2e40fd58-b4f8-4f9f-b83e-0cf90ad47cdc": {
+          "type": "collection",
+          "settings": {
+            "collection": "mitsubishi"
+          }
+        },
+        "9bf5d9f7-c73e-4e78-809f-a479a2debe1d": {
+          "type": "collection",
+          "settings": {
+            "collection": "nissan"
+          }
+        },
+        "5dafcd08-d293-44ad-b96e-17beb16b770d": {
+          "type": "collection",
+          "settings": {
+            "collection": "toyota"
+          }
+        }
+      },
+      "block_order": [
+        "cf1be78e-c37f-4293-8569-99a1a87a0c71",
+        "d0cc0881-2a23-4c87-b280-6bf0c3021ceb",
+        "e4243559-8943-42ea-b831-6cba1c6e1dec",
+        "9a5adf9e-4840-4a99-be3b-cf31c328cf01",
+        "2e40fd58-b4f8-4f9f-b83e-0cf90ad47cdc",
+        "9bf5d9f7-c73e-4e78-809f-a479a2debe1d",
+        "5dafcd08-d293-44ad-b96e-17beb16b770d"
+      ],
+      "settings": {
+        "title_enable": true,
+        "display_type": "selected",
+        "sort": "alphabetical",
+        "grid": "5"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

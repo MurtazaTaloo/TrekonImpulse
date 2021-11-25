@@ -1,0 +1,281 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1cb2e372-0e20-4350-91d1-c4660f59f930": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "Shipping Australia-wide"
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 2,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "1cb2e372-0e20-4350-91d1-c4660f59f930",
+        "separator",
+        "variant_picker",
+        "sales_point",
+        "inventory_status",
+        "buy_buttons",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "c1c812b4-896a-4d35-a405-461f47fd6842": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "ffa2c806-66b1-48b1-9f78-01b41da3e6dd": {
+          "type": "reviews",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "c1c812b4-896a-4d35-a405-461f47fd6842",
+        "ffa2c806-66b1-48b1-9f78-01b41da3e6dd"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "16351663734b87961c": {
+      "type": "slideshow",
+      "blocks": {
+        "16351663734b87961c-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "{{ product.title }}",
+            "title": "The ultimate\nbull bars",
+            "title_size": 75,
+            "subheading": "Jungle 4x4 bull bars are the ultimate accessory for your 4x4.",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/192700632_1155855451578213_338798991876019719_n_compressed.jpg",
+            "overlay_opacity": 68,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16351663734b87961c-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "400px",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "1635166819566db557": {
+      "type": "rich-text",
+      "blocks": {
+        "1635166819566db557-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Jungle 4x4 Bull bars"
+          }
+        },
+        "1635166819566db557-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>All our bull bars have been designed and tested in Australia and are airbag compatible and ADR approved. Jungle 4×4 has made a huge investment in making sure the bars not only look good but most of all meet the toughest safety standards.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1635166819566db557-0",
+        "1635166819566db557-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16352398830c7492c2": {
+      "type": "rich-text",
+      "blocks": {
+        "16352398830c7492c2-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Features"
+          }
+        },
+        "16352398830c7492c2-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>✔ (Deluxe Full Loop only) Reinforced 63.5mm Tubing<br\/>✔ Full Bumper Replacement (No Bumper Cuts Required)<br\/>✔ AIRBAG Compatible and ADR Approved<br\/>✔ Powder Coated Finish<br\/>✔ Winch Compatible<br\/>✔ Dual Aerial Mounts<br\/>✔ Pre-Drilled Holes For Driving Lights<br\/>✔ Reinforced Recovery Jack Mounts<br\/>✔ Parking Sensor Compatible<br\/>✔ Designed for Optimal Approach Angle<br\/>✔ Integrated Fog Lamps and Indicators<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16352398830c7492c2-0",
+        "16352398830c7492c2-1"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1635231758bac15223": {
+      "type": "faq",
+      "blocks": {
+        "1635231758bac15223-0": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "1635231758bac15223-1": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1635231758bac15223-0",
+        "1635231758bac15223-1"
+      ],
+      "settings": {
+        "title": "FAQs"
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 4
+      }
+    },
+    "16352343768172649c": {
+      "type": "newsletter",
+      "blocks": {
+        "16352343768172649c-0": {
+          "type": "title",
+          "settings": {
+            "title": "Subscribe to our newsletter"
+          }
+        },
+        "16352343768172649c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Subscribe to hear about the latest news.<\/p>"
+          }
+        },
+        "16352343768172649c-2": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16352343768172649c-0",
+        "16352343768172649c-1",
+        "16352343768172649c-2"
+      ],
+      "settings": {
+        "color_background": "#ffffff",
+        "color_text": "#000000"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "16351663734b87961c",
+    "1635166819566db557",
+    "16352398830c7492c2",
+    "1635231758bac15223",
+    "collection-return",
+    "recently-viewed",
+    "product-recommendations",
+    "16352343768172649c"
+  ]
+}

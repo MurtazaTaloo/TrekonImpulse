@@ -1,0 +1,35 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "title": "<h1>Can we help?<\/h1>",
+        "text": "<p>Please do not hesitate to contact us by completing this form or calling our customer services team on <a href=\"tel:(03) 8401 3776\">(03) 8401 3776<\/a>.<br\/><\/p>",
+        "show_phone": true,
+        "narrow_column": true
+      }
+    },
+    "1635051910c046c7d6": {
+      "type": "map",
+      "settings": {
+        "map_title": "Visit us in store",
+        "address": "<p>24 Fullarton Dr,<br\/>Epping VIC 3076<\/p><p>Mon - Fri, 9am - 5pm<\/p><p><a href=\"tel:(03) 8401 3776\">(03) 8401 3776<\/a><br\/><a href=\"mailto:sales@jungle4x4.com.au\" title=\"mailto:sales@jungle4x4.com.au\">sales@jungle4x4.com.au<\/a><\/p>",
+        "map_address": "24 Fullarton Dr, Epping VIC 3076",
+        "api_key": "AIzaSyBsn4vImx2cjZQoKEvIuWCxvTs7YOirgE8",
+        "show_button": true,
+        "background_image_position": "center center"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "form",
+    "1635051910c046c7d6"
+  ]
+}
