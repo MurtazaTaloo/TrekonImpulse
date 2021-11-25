@@ -76,22 +76,6 @@
             "title": "camping",
             "focal_point": "center center"
           }
-        },
-        "13faa791-e63d-462b-aa02-dd82828d87ef": {
-          "type": "collection",
-          "settings": {
-            "collection": "nissan",
-            "title": "",
-            "focal_point": "center center"
-          }
-        },
-        "af2db2ad-c9c1-4028-abce-3937ec03a2a3": {
-          "type": "collection",
-          "settings": {
-            "collection": "toyota",
-            "title": "",
-            "focal_point": "center center"
-          }
         }
       },
       "block_order": [
@@ -99,9 +83,7 @@
         "1635240013cec944ae-1",
         "1635240013cec944ae-2",
         "1635240013cec944ae-3",
-        "c740a3e8-8c57-42ba-90ba-7104f97dfc40",
-        "13faa791-e63d-462b-aa02-dd82828d87ef",
-        "af2db2ad-c9c1-4028-abce-3937ec03a2a3"
+        "c740a3e8-8c57-42ba-90ba-7104f97dfc40"
       ],
       "settings": {
         "title": "",
