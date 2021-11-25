@@ -65,7 +65,7 @@
           "type": "collection",
           "settings": {
             "collection": "mazda",
-            "title": "",
+            "title": "hardware",
             "focal_point": "center center"
           }
         },
@@ -73,7 +73,7 @@
           "type": "collection",
           "settings": {
             "collection": "mitsubishi",
-            "title": "",
+            "title": "camping",
             "focal_point": "center center"
           }
         },
