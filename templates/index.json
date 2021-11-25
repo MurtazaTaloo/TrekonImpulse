@@ -8,7 +8,7 @@
           "settings": {
             "top_subheading": "4WD bull bars, side steps & rails.",
             "title": "Jungle 4x4 Bullbars & Protection",
-            "title_size": 70,
+            "title_size": 46,
             "subheading": "The ultimate 4x4 parts built for the Australian environment.",
             "link": "shopify:\/\/collections",
             "link_text": "Shop by make",
@@ -16,7 +16,7 @@
             "link_text_2": "",
             "color_accent": "#ffffff",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/bg-3_1.jpg",
+            "image": "shopify:\/\/shop_images\/4.png",
             "overlay_opacity": 0,
             "focal_point": "bottom center"
           }
@@ -67,42 +67,36 @@
         "1635047350b81f15d5-0": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/trek-hardware-logo.png",
             "link": ""
           }
         },
         "1635047350b81f15d5-1": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/your-4x4-logo.jpg",
             "link": ""
           }
         },
         "1635047350b81f15d5-2": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4wd-pro-tips-logo.jpg",
             "link": ""
           }
         },
         "1635047350b81f15d5-3": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/7mate-logo.png",
             "link": ""
           }
         },
         "2de5408a-32fd-4ba0-a6a2-dc70b222ae91": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/life-off-road-logo.png",
             "link": ""
           }
         },
         "871b132c-eea5-42a8-bd67-8b257f581afc": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4wd-tv-logo.png",
             "link": ""
           }
         }
@@ -200,7 +194,6 @@
     "1635122005a746737c": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/feature-image-1_compressed_1.jpg",
         "image_width": 700,
         "subtitle": "",
         "title": "Premium level protection without the price tag",
@@ -216,7 +209,6 @@
     "1635122034d9b4f53d": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/australia-1_1.jpg",
         "image_width": 700,
         "subtitle": "",
         "title": "Tested in & designed for Australia",
