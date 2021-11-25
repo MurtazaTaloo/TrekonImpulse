@@ -84,8 +84,7 @@
           "1524770014057": {
             "type": "logo",
             "settings": {
-              "logo": "shopify:\/\/shop_images\/jungle-logo-black.png",
-              "logo-inverted": "shopify:\/\/shop_images\/jungle-logo-white.png",
+              "logo": "shopify:\/\/shop_images\/Trek-Hardware-Logo_e1c1628e-889c-472d-b97a-6c37be3f86a7.png",
               "desktop_logo_width": 140,
               "mobile_logo_width": 110
             }
@@ -112,7 +111,7 @@
           "sticky_collection": true,
           "announcement_compact": true,
           "announcement_above_header": false,
-          "toolbar_menu": "toolbar-menu",
+          "toolbar_menu": "",
           "toolbar_social": true,
           "show_locale_selector": true,
           "show_currency_selector": true,
@@ -135,7 +134,7 @@
             "type": "menu",
             "settings": {
               "show_footer_title": true,
-              "menu": "footer-column-1",
+              "menu": "",
               "container_width": 25
             }
           },
@@ -143,7 +142,7 @@
             "type": "menu",
             "settings": {
               "show_footer_title": true,
-              "menu": "footer-column-3",
+              "menu": "",
               "container_width": 25
             }
           },
