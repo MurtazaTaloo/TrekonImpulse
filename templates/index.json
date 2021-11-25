@@ -8,7 +8,7 @@
           "settings": {
             "top_subheading": "TREK HARDWARE 4X4 SUPERSTORE",
             "title": "Prepare for your next outdoor adventure",
-            "title_size": 46,
+            "title_size": 40,
             "subheading": "Trek Hardware stock the widest range of offroad parts in Australia. We stock an extensive range of 4x4 accessories, camping, trailer parts and more.",
             "link": "shopify:\/\/collections",
             "link_text": "Shop by make",
@@ -32,6 +32,82 @@
         "style": "minimal",
         "autoplay": false,
         "autoplay_speed": 7
+      }
+    },
+    "1635240013cec944ae": {
+      "type": "featured-collections",
+      "blocks": {
+        "1635240013cec944ae-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "ford",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "1635240013cec944ae-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "holden",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "1635240013cec944ae-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "isuzu",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "1635240013cec944ae-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "mazda",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "c740a3e8-8c57-42ba-90ba-7104f97dfc40": {
+          "type": "collection",
+          "settings": {
+            "collection": "mitsubishi",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "13faa791-e63d-462b-aa02-dd82828d87ef": {
+          "type": "collection",
+          "settings": {
+            "collection": "nissan",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "af2db2ad-c9c1-4028-abce-3937ec03a2a3": {
+          "type": "collection",
+          "settings": {
+            "collection": "toyota",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1635240013cec944ae-0",
+        "1635240013cec944ae-1",
+        "1635240013cec944ae-2",
+        "1635240013cec944ae-3",
+        "c740a3e8-8c57-42ba-90ba-7104f97dfc40",
+        "13faa791-e63d-462b-aa02-dd82828d87ef",
+        "af2db2ad-c9c1-4028-abce-3937ec03a2a3"
+      ],
+      "settings": {
+        "title": "",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
       }
     },
     "rich-text": {
@@ -115,82 +191,6 @@
         "divider": false
       }
     },
-    "1635240013cec944ae": {
-      "type": "featured-collections",
-      "blocks": {
-        "1635240013cec944ae-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "ford",
-            "title": "",
-            "focal_point": "center center"
-          }
-        },
-        "1635240013cec944ae-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "holden",
-            "title": "",
-            "focal_point": "center center"
-          }
-        },
-        "1635240013cec944ae-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "isuzu",
-            "title": "",
-            "focal_point": "center center"
-          }
-        },
-        "1635240013cec944ae-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "mazda",
-            "title": "",
-            "focal_point": "center center"
-          }
-        },
-        "c740a3e8-8c57-42ba-90ba-7104f97dfc40": {
-          "type": "collection",
-          "settings": {
-            "collection": "mitsubishi",
-            "title": "",
-            "focal_point": "center center"
-          }
-        },
-        "13faa791-e63d-462b-aa02-dd82828d87ef": {
-          "type": "collection",
-          "settings": {
-            "collection": "nissan",
-            "title": "",
-            "focal_point": "center center"
-          }
-        },
-        "af2db2ad-c9c1-4028-abce-3937ec03a2a3": {
-          "type": "collection",
-          "settings": {
-            "collection": "toyota",
-            "title": "",
-            "focal_point": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "1635240013cec944ae-0",
-        "1635240013cec944ae-1",
-        "1635240013cec944ae-2",
-        "1635240013cec944ae-3",
-        "c740a3e8-8c57-42ba-90ba-7104f97dfc40",
-        "13faa791-e63d-462b-aa02-dd82828d87ef",
-        "af2db2ad-c9c1-4028-abce-3937ec03a2a3"
-      ],
-      "settings": {
-        "title": "Shop by make",
-        "divider": false,
-        "per_row": 4,
-        "enable_gutter": true
-      }
-    },
     "1635122005a746737c": {
       "type": "text-and-image",
       "settings": {
@@ -239,9 +239,9 @@
   },
   "order": [
     "slideshow",
+    "1635240013cec944ae",
     "rich-text",
     "1635047350b81f15d5",
-    "1635240013cec944ae",
     "1635122005a746737c",
     "1635122034d9b4f53d",
     "blog-posts"
