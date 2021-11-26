@@ -217,6 +217,55 @@
         "blog_image_size": "wide",
         "divider": true
       }
+    },
+    "1637890575d03855e6": {
+      "type": "advanced-content",
+      "blocks": {
+        "1637890575cb97d0ed-0": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "66%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1637890575cb97d0ed-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "1637890612de5d5ed1": {
+      "type": "advanced-content",
+      "blocks": {
+        "16378906120f0417e2-0": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "16378906120f0417e2-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16378906120f0417e2-0",
+        "16378906120f0417e2-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
@@ -226,6 +275,8 @@
     "1635047350b81f15d5",
     "1635122005a746737c",
     "1635122034d9b4f53d",
-    "blog-posts"
+    "blog-posts",
+    "1637890575d03855e6",
+    "1637890612de5d5ed1"
   ]
 }
