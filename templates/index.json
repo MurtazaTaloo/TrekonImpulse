@@ -217,26 +217,6 @@
         "blog_image_size": "wide",
         "divider": true
       }
-    },
-    "1637890575d03855e6": {
-      "type": "advanced-content",
-      "blocks": {
-        "1637890575cb97d0ed-0": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "width": "66%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "1637890575cb97d0ed-0"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
     }
   },
   "order": [
@@ -246,7 +226,6 @@
     "1635047350b81f15d5",
     "1635122005a746737c",
     "1635122034d9b4f53d",
-    "blog-posts",
-    "1637890575d03855e6"
+    "blog-posts"
   ]
 }
